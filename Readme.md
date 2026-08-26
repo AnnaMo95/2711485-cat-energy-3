@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Анна Могилевская](https://up.htmlacademy.ru/adaptive-individual/3/user/2711485).
-* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Наставник:[Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
 
 ---
 
